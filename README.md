@@ -41,7 +41,7 @@ docker image ls <------------------ image will list here
 
 ### Screenshots
 
-_Downloading the docker file from Git and build a image_ 
+Downloading the docker file from Git and build a image_ 
 ![alt text](https://i.ibb.co/RTVG9WY/screen2.png)
 
 ---
@@ -59,7 +59,7 @@ Argument explanation:
 ```
 ### Screenshots 
 
-_Building a container from Image pulled from [Docker Hub](https://hub.docker.com/repository/docker/amalbosemathew/nodejs)
+Building a container from Image pulled from [Docker Hub](https://hub.docker.com/repository/docker/amalbosemathew/nodejs)
 
 ![alt text](https://i.ibb.co/S6CySDy/screen1.png)
 
