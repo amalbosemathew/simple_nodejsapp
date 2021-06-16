@@ -22,9 +22,9 @@ Creating a simple Nodejsapp with help of Dockerfile to print the "Hello World".
 ---
 # Installation 
 
-- [Docker installation]("https://docs.docker.com/engine/install/ubuntu/") 
-- Alternatively from the above, you can use Pre-installed [Docker Terminal]("https://labs.play-with-docker.com/") (For the easy access to configured Docker environment especially for begineers)
-- [Git installation]("https://git-scm.com/download/linux")
+- _[Docker installation]("https://docs.docker.com/engine/install/ubuntu/") 
+- _Alternatively from the above, you can use Pre-installed [Docker Terminal]("https://labs.play-with-docker.com/") (For the easy access to configured Docker environment especially for begineers)
+- _[Git installation]("https://git-scm.com/download/linux")
 
 ---
 # How to build a image with Dockerfile
@@ -68,7 +68,7 @@ _Container running on port 3000 and output_
 ![alt text](https://i.ibb.co/gMP2MCL/screen4.png)
 
 
-# _Additional Informations_
+# Additional Informations_
 
 ---
 ## _Push Image to Docker Hub (upload docker image to registry)_
