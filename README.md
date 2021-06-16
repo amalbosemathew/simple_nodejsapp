@@ -68,7 +68,7 @@ _Container running on port 3000 and output_
 ![alt text](https://i.ibb.co/gMP2MCL/screen4.png)
 
 
-# Additional Informations_
+# Additional Informations
 
 ---
 ## _Push Image to Docker Hub (upload docker image to registry)_
