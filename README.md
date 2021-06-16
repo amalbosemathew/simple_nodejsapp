@@ -31,6 +31,7 @@ Creating a simple Nodejsapp with help of Dockerfile to print the "Hello World".
 _Steps:_
 ```sh
 yum install docker -y
+systemctl start docker
 yum install git -y
 git clone https://github.com/amalbosemathew/simple_nodejsapp
 cd simple_nodejsapp/
