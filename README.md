@@ -99,7 +99,7 @@ RUN mkdir /var/node/          <-------- RUN is using for exicute shell command
 WORKDIR /var/node/            <-------- Image working directory
 COPY ./app.js ./              <-------- Copy node file to WD
 RUN apk update
-RUN apk add nodejs npm        <-------- nodejs and npm installtion
+RUN apk add nodejs npm        <-------- nodejs and npm installation
 RUN npm init -y
 RUN npm install express       <-------- nodejs module installtion 
 EXPOSE 3000                   <-------- Just expose which port we use in container
