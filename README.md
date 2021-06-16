@@ -68,11 +68,11 @@ _Container running on port 3000 and output_
 ![alt text](https://i.ibb.co/gMP2MCL/screen4.png)
 
 
-# Additional Informations
+# Additional Information
 
 ---
 ## _Push Image to Docker Hub (upload docker image to registry)_
-We can upload theDocker image to [Docker hub]("https://hub.docker.com/").
+We can upload the Docker image to [Docker hub]("https://hub.docker.com/").
 ### _Steps_
 1. _How to login Docker hub_
 ```sh
