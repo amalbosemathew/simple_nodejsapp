@@ -112,9 +112,3 @@ CMD [ "app.js" ]              <--------- CMD is working the same image default c
 
 The Intention of this Reposistory is to create awareness about the Dockerfile and the usage of containerisation.
 
-<p align="center">
-<a href="mailto:mathew.amalbose@gmail.com"><img src="https://img.shields.io/badge/-mathew.amalbose@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/amal-bose-mathew"><img src="https://img.shields.io/badge/-Linkedin-blue"/></a>
-<a href="https://techbit-new.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-orange"/></a>
-  
-
